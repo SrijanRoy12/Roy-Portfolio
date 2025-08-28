@@ -36,6 +36,6 @@ or run with npm start if using React/Node setup.
 📞 Contact – Connect with me easily
 📬 Contact
 
-📧 Email: roysrijan@example.com
-💼 LinkedIn: Srijan Roy
-🐙 GitHub: SrijanRoy12
+**📧 Email**: roysrijan@example.com
+**💼 LinkedIn**: Srijan Roy
+**🐙 GitHub**: SrijanRoy12
